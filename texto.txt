@@ -1,0 +1,11 @@
+Python es un lenguaje de programacion potente y facil de aprender. Tiene estructuras de datos de alto nivel eficientes y un simple pero efectivo sistema de programacion orientado a objetos.
+La elegante sintaxis de Python y su tipado dinamico, junto a su naturaleza interpretada lo convierten en un lenguaje ideal para scripting y desarrollo rapido de aplicaciones en muchas areas, para la mayoria de plataformas.
+El interprete de Python y la extensa libreria estandar se encuentran disponibles libremente en codigo fuente y de forma binaria para la mayoria de las plataformas desde la Web de Python, y se pueden distribuir libremente.
+El mismo sitio tambien contiene distribuciones y referencias a muchos modulos libres de Python de terceros, programas, herramientas y documentacion adicional.
+El interprete de Python es facilmente extensible con funciones y tipos de datos implementados en C o C++ u otros lenguajes que permitan ser llamados desde C. Python tambien es apropiado como un lenguaje para extender aplicaciones modificables.
+Este tutorial introduce al lector informalmente a los conceptos basicos y las funcionalidades del lenguaje de programacion Python y a su sistema.
+Ayuda a tener un interprete de Python accesible para una experiencia practica, todos los ejemplos son autocontenidos, permitiendo utilizar el tutorial sin conexion.
+Para una descripcion de los objetos estandar y de los modulos, ver La Biblioteca Estandar de Python. Referencia del Lenguaje Python donde se ofrece una definicion mas formal del lenguaje.
+Para escribir extensiones en C o C++, leer Ampliacion e incrustacion del interprete de Python y Manual de referencia de la API en C de Python. Existen diversos libros que cubren Python en detalle.
+Este tutorial no pretende ser exhaustivo ni cubrir cada una de las caracteristicas del lenguaje, ni siquiera las mas utilizadas. En vez de eso, pretende introducir muchas de las funcionalidades mas notables y brindar una idea clara acerca del estilo y el tipo de lenguaje que es Python.
+Despues de leerlo podras leer y escribir modulos y programas en Python, y estaras listo para aprender mas acerca de las diversas librerias y modulos descritos en La Biblioteca Estandar de Python.
